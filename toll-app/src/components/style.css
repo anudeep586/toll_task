@@ -1,0 +1,14 @@
+table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+    margin-left: 15rem;
+}
+
+th {
+    border-bottom: 1px solid black;
+}
+
+td {
+    text-align: center;
+}
