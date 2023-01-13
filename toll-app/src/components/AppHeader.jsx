@@ -32,7 +32,7 @@ const AppHeader = ({data,setData,data1,setDat,check,setCheck,selected,setSelecte
       <div>
         <button onClick={(e)=>onChange(e.target.value)} value={var1}>{var1}</button>
         <button onClick={(e)=>onChange1(e.target.value)} value={var2}>{var2}</button>
-        <div className="phale" style={{display:"flex"}}>
+        <div className="phale" style={{display:"flex"}} id="anudeep">
         <Model1 data={data} data1={data1} setDat={setDat} setSelected={setSelected}/>
         <Model data={data} setData={setData} data1={data1}/>
         </div>
