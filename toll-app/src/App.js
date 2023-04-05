@@ -7,6 +7,8 @@ import { useEffect } from 'react';
 
 
 function App() {
+  
+  
   const data2 = [
     { VEHICLE_TYPE: "Anom", VEHICLE_NUMBER: 19, DATE_TIME: "12/09/2022" ,TOLLNAME:"JDSAS",TARIFF:67},
     { VEHICLE_TYPE: "Anom", VEHICLE_NUMBER: 19, DATE_TIME: "12/09/2022" ,TOLLNAME:"JKAS",TARIFF:67},
